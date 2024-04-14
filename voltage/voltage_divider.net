@@ -1,0 +1,7 @@
+* C:\SourceCode\GitHub\electronix\LTspice\LTspBasics\voltage\voltage_divider.asc
+V1 N001 0 -10
+R1 N001 N002 1k
+R2 N002 0 1k
+.op
+.backanno
+.end
