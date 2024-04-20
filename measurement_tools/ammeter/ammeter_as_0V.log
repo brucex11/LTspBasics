@@ -1,0 +1,11 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\SourceCode\GitHub\electronix\LTspice\LTspBasics\measurement_tools\ammeter\ammeter_as_0V.asc
+Start Time: Sun Apr 14 11:38:59 2024
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.115 seconds.
+
